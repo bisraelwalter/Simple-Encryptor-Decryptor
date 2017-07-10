@@ -1,0 +1,29 @@
+﻿  Quiz7Homework.c
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(16): warning C4101: 'decryptWord': unreferenced local variable
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(19): warning C4101: 'decryptKey': unreferenced local variable
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(59): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(73): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(94): warning C4047: '>': 'char *' differs in levels of indirection from 'int'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(94): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(95): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(150): warning C4013: 'toupper' undefined; assuming extern returning int
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(157): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(157): warning C4024: 'strlen': different types for formal and actual parameter 1
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(159): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(159): warning C4024: 'strlen': different types for formal and actual parameter 1
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(161): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(163): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(163): warning C4024: 'strlen': different types for formal and actual parameter 1
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(167): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(167): warning C4024: 'strlen': different types for formal and actual parameter 1
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(163): warning C4047: 'initializing': 'int' differs in levels of indirection from 'char *'
+c:\users\bisraelwalter\dropbox\homework\cst120 embedded c\weel 7\quiz7homework\quiz7homework\quiz7homework.c(127): warning C4716: 'encrypt': must return a value
+  Quiz7Homework.vcxproj -> C:\Users\Bisraelwalter\Dropbox\Homework\CST120 Embedded C\Weel 7\Quiz7Homework\Debug\Quiz7Homework.exe
+  Quiz7Homework.vcxproj -> C:\Users\Bisraelwalter\Dropbox\Homework\CST120 Embedded C\Weel 7\Quiz7Homework\Debug\Quiz7Homework.pdb (Full PDB)
